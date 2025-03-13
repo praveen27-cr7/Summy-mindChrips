@@ -1,0 +1,24 @@
+body{
+    background-image: url(img/background15.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divnav{
+    background-color: #1e525b;
+}
+
+#heading{
+    
+    font-family: 'Satisfy', cursive;
+    color: #c2f2fc
+}
+
+#section1-title{
+   background-color: #1e525b;
+   color: #c2f2fc;
+}
+
+#Content1{
+    border: none;
+}
