@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.divnav{
+.divnav {
     background-color: #1e525b;
 }
 
@@ -14,11 +14,28 @@ body{
     color: #c2f2fc
 }
 
-#section1-title{
+#section1-title, .news-letter, .about, .category,.tags {
    background-color: #1e525b;
    color: #c2f2fc;
 }
 
 #Content1{
     border: none;
+}
+
+.aboutpara{
+    text-align: justify;
+}
+
+.decorations:hover{
+    text-decoration: underline;
+}
+
+.tags-link{
+    color: #195688;
+    text-decoration: none;
+}
+
+.tags-link:hover{
+    text-decoration: underline;
 }
