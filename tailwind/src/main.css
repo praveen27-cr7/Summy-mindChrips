@@ -1,0 +1,19 @@
+.heading{
+    font-family: 'Satisfy', cursive;
+}
+.background{
+    background-color: #1e525b;
+}
+body{
+    background-image: url(tailwindimg/background15.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul.tick li::before{
+    font-family: 'FontAwesome';
+    content: '\2714';
+    color: #736e6edb;
+    font-weight: bold;
+    font-size: medium;
+}
